@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m pursuing opportunities as a full time developer.
 - 🌱 I received my Full Stack Javascript Certificate from the Rutgers Bootcamp this past September.
-- 💬 Ask me about ...
- 📫 How to reach me: stephanie.george22@gmail.com
- 📚 I am reading the Martin by Andy Weir
-- ⚡ Fun fact: I was once stung by a sea urchin in the Adriatic Sea
+- 📫 How to reach me: stephanie.george22@gmail.com.
+- 📚 Currently reading the Martin by Andy Weir.
+- ⚡ Fun fact: I was once stung by a sea urchin in the Adriatic Sea.
 
+[![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephgeorge22)](https://github.com/stephgeorge22/github-readme-stats)
