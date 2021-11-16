@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 
 ### Checkout my Github Stats! 
 
-[![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephgeorge22)](https://github.com/stephgeorge22/github-readme-stats)
-
-![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephgeorge22&show_icons=true&theme=radical)
-
-![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephgeorge22&show_icons=true&theme=cobalt)
-
-![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephgeorge22&show_icons=true&theme=synthwave)
-
 ![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephgeorge22&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephgeorge22)](https://github.com/stephgeorge22/github-readme-stats)
+
