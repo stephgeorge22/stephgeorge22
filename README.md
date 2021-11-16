@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I received my Full Stack Javascript Certificate from the Rutgers Bootcamp this past September.
 - 💬 Ask me about ...
 - 📫 How to reach me: stephanie.george22@gmail.com
-  📚 I am reading the Martin by Andy Weir
+# 📚 I am reading the Martin by Andy Weir
 - ⚡ Fun fact: I was once stung by a sea urchin in the Adriatic Sea
 
