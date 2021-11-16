@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephgeorge22)](https://github.com/stephgeorge22/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephgeorge22&show_icons=true&theme=tokyonight)
