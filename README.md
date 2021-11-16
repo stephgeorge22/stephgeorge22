@@ -12,4 +12,8 @@ Here are some ideas to get you started:
 - 📚 Currently reading the Martin by Andy Weir.
 - ⚡ Fun fact: I was once stung by a sea urchin in the Adriatic Sea.
 
+### Checkout my Github Stats! 
+
 [![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephgeorge22)](https://github.com/stephgeorge22/github-readme-stats)
+
+![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephgeorge22&show_icons=true&theme=radical)
