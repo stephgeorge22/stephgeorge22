@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m pursuing opportunities as a full time developer.
-- 🌱 I received my Full Stack Javascript Certificate from the Rutgers Bootcamp this past September.
+🔭 I’m pursuing opportunities as a full time developer. < br />
+🌱 I received my Full Stack Javascript Certificate from the Rutgers Bootcamp this past September.
 - 📫 How to reach me: stephanie.george22@gmail.com.
 - 📚 Currently reading the Martin by Andy Weir.
 - ⚡ Fun fact: I was once stung by a sea urchin in the Adriatic Sea.
