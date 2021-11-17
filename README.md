@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 
 ### Checkout my Github Stats! 
 
+You usually won't be able to layout the images side by side. To do that you can use this approach:
+
+<a href="https://github.com/stephgeorge22/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephgeorge22&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/stephgeorge22/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephgeorge22&show_icons=true&theme=tokyonight" />
+</a>
+
 ![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephgeorge22&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephgeorge22&show_icons=true&theme=tokyonight)
