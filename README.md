@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 
 ### Checkout my Github Stats! 
 
-You usually won't be able to layout the images side by side. To do that you can use this approach:
-
 ![Stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephgeorge22&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephgeorge22&show_icons=true&theme=tokyonight)
